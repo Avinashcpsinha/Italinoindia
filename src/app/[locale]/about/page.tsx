@@ -40,7 +40,7 @@ export default async function AboutPage({
           <div className="lg:col-span-5">
             <div className="relative aspect-[4/5] overflow-hidden rounded-2xl">
               <Image
-                src="https://images.unsplash.com/photo-1581789491058-32d2efb91d2d?q=80&w=1600"
+                src="https://images.unsplash.com/photo-1545558014-8692077e9b5c?q=80&w=1600"
                 alt=""
                 fill
                 sizes="(min-width: 1024px) 40vw, 100vw"

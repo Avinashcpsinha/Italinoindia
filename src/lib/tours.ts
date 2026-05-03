@@ -91,7 +91,7 @@ const MOCK_TOURS: Tour[] = [
       "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?q=80&w=2000",
     gallery: [
       "https://images.unsplash.com/photo-1593693411515-c20261bcad6e?q=80&w=1600",
-      "https://images.unsplash.com/photo-1609337448894-1ab40b85d3df?q=80&w=1600",
+      "https://images.unsplash.com/photo-1591608971362-f08b2a75731a?q=80&w=1600",
     ],
     destinations: ["Cochin", "Munnar", "Thekkady", "Alleppey"],
     highlights: [
@@ -112,7 +112,7 @@ const MOCK_TOURS: Tour[] = [
       "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?q=80&w=2000",
     gallery: [
       "https://images.unsplash.com/photo-1593181629936-11c609b8db9b?q=80&w=1600",
-      "https://images.unsplash.com/photo-1626015449180-c7a3a6d8f6d6?q=80&w=1600",
+      "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?q=80&w=1600",
     ],
     destinations: ["Leh", "Nubra Valley", "Pangong Lake"],
     highlights: ["pangong-lake", "monastery-circuit", "khardung-la-pass", "nubra-dunes"],
@@ -126,7 +126,7 @@ const MOCK_TOURS: Tour[] = [
     priceFromEUR: 2890,
     heroImage:
       "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=2000",
-    gallery: ["https://images.unsplash.com/photo-1582553081697-a2e0e0e7b86e?q=80&w=1600"],
+    gallery: ["https://images.unsplash.com/photo-1540573133985-87b6da6d54a9?q=80&w=1600"],
     destinations: ["Chennai", "Mahabalipuram", "Pondicherry", "Tanjore", "Madurai"],
     highlights: ["meenakshi-temple", "chola-bronzes", "french-quarter-pondicherry", "shore-temple"],
     rating: 4.88,
@@ -139,7 +139,7 @@ const MOCK_TOURS: Tour[] = [
     priceFromEUR: 990,
     heroImage:
       "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=2000",
-    gallery: ["https://images.unsplash.com/photo-1561361398-a8a08e0bbd87?q=80&w=1600"],
+    gallery: ["https://images.unsplash.com/photo-1551918120-9739cb430c6d?q=80&w=1600"],
     destinations: ["Varanasi", "Sarnath"],
     highlights: ["ganga-aarti", "sunrise-boat-ride", "sarnath-stupa", "silk-weavers-quarter"],
     rating: 4.86,

@@ -52,7 +52,7 @@ values
   '{"en":"Tea hills, spice gardens, an overnight on a private houseboat — the south at its quietest.","it":"Colline di tè, giardini di spezie, una notte su una houseboat privata — il sud nella sua quiete.","de":"Teeberge, Gewürzgärten, eine Nacht auf einem privaten Hausboot — der Süden in seiner ruhigsten Form.","fr":"Collines de thé, jardins d''épices, une nuit sur une houseboat privée — le sud dans son calme."}'::jsonb,
   9, 1790,
   'https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?q=80&w=2000',
-  array['https://images.unsplash.com/photo-1593693411515-c20261bcad6e?q=80&w=1600','https://images.unsplash.com/photo-1609337448894-1ab40b85d3df?q=80&w=1600'],
+  array['https://images.unsplash.com/photo-1593693411515-c20261bcad6e?q=80&w=1600','https://images.unsplash.com/photo-1591608971362-f08b2a75731a?q=80&w=1600'],
   '[
     {"slug":"cochin","name":{"en":"Cochin","it":"Cochin","de":"Cochin","fr":"Cochin"}},
     {"slug":"munnar","name":{"en":"Munnar","it":"Munnar","de":"Munnar","fr":"Munnar"}},
@@ -73,7 +73,7 @@ values
   '{"en":"Buddhist monasteries, high passes, and the impossible blue of Pangong Lake.","it":"Monasteri buddisti, passi d''alta quota e l''impossibile azzurro del Lago Pangong.","de":"Buddhistische Klöster, hohe Pässe und das unmögliche Blau des Pangong-Sees.","fr":"Monastères bouddhistes, hauts cols, et le bleu impossible du lac Pangong."}'::jsonb,
   10, 2490,
   'https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?q=80&w=2000',
-  array['https://images.unsplash.com/photo-1593181629936-11c609b8db9b?q=80&w=1600','https://images.unsplash.com/photo-1626015449180-c7a3a6d8f6d6?q=80&w=1600'],
+  array['https://images.unsplash.com/photo-1593181629936-11c609b8db9b?q=80&w=1600','https://images.unsplash.com/photo-1517457373958-b7bdd4587205?q=80&w=1600'],
   '[
     {"slug":"leh","name":{"en":"Leh","it":"Leh","de":"Leh","fr":"Leh"}},
     {"slug":"nubra-valley","name":{"en":"Nubra Valley","it":"Valle di Nubra","de":"Nubra-Tal","fr":"Vallée de Nubra"}},
@@ -93,7 +93,7 @@ values
   '{"en":"Tamil Nadu''s towering temples, French-quarter Pondicherry, Chola bronzes.","it":"Templi torreggianti del Tamil Nadu, il quartiere francese di Pondicherry, bronzi Chola.","de":"Tamil Nadus aufragende Tempel, das französische Viertel von Pondicherry, Chola-Bronzen.","fr":"Les temples imposants du Tamil Nadu, le quartier français de Pondichéry, les bronzes Chola."}'::jsonb,
   14, 2890,
   'https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=2000',
-  array['https://images.unsplash.com/photo-1582553081697-a2e0e0e7b86e?q=80&w=1600'],
+  array['https://images.unsplash.com/photo-1540573133985-87b6da6d54a9?q=80&w=1600'],
   '[
     {"slug":"chennai","name":{"en":"Chennai","it":"Chennai","de":"Chennai","fr":"Chennai"}},
     {"slug":"mahabalipuram","name":{"en":"Mahabalipuram","it":"Mahabalipuram","de":"Mahabalipuram","fr":"Mahabalipuram"}},
@@ -115,7 +115,7 @@ values
   '{"en":"Sunrise on the Ganges, the Aarti ceremony, and the Buddha''s first sermon at Sarnath.","it":"Alba sul Gange, la cerimonia Aarti e il primo discorso del Buddha a Sarnath.","de":"Sonnenaufgang am Ganges, die Aarti-Zeremonie und Buddhas erste Predigt in Sarnath.","fr":"Lever du soleil sur le Gange, la cérémonie Aarti et le premier sermon du Bouddha à Sarnath."}'::jsonb,
   5, 990,
   'https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=2000',
-  array['https://images.unsplash.com/photo-1561361398-a8a08e0bbd87?q=80&w=1600'],
+  array['https://images.unsplash.com/photo-1551918120-9739cb430c6d?q=80&w=1600'],
   '[
     {"slug":"varanasi","name":{"en":"Varanasi","it":"Varanasi","de":"Varanasi","fr":"Varanasi"}},
     {"slug":"sarnath","name":{"en":"Sarnath","it":"Sarnath","de":"Sarnath","fr":"Sarnath"}}
