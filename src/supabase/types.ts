@@ -87,7 +87,7 @@ export type TourRow = {
   summary: LocaleString | null;
   description: LocaleString | null;
   duration_days: number;
-  price_from_eur: number;
+  price_from_inr: number;
   hero_image: string | null;
   gallery: string[];
   destinations: TourDestinationEmbed[];

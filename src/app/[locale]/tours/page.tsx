@@ -88,7 +88,7 @@ export default async function ToursPage({
                 </h2>
                 <p className="text-sm text-ink-900/55">{dests.join(" · ")}</p>
                 <div className="mt-2 text-sm text-ink-900/80">
-                  {t("tours.fromPrice", { price: formatPrice(tour.priceFromEUR, "EUR", locale) })}
+                  {t("tours.fromPrice", { price: formatPrice(tour.priceFromINR) })}
                 </div>
               </div>
             </Link>

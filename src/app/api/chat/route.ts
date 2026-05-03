@@ -18,7 +18,7 @@ function buildSystemPrompt(locale: string) {
   const catalog = tours
     .map(
       (t) =>
-        `- ${t.slug} | ${t.durationDays}d | from €${t.priceFromEUR} | ${t.destinations.join(", ")} | category: ${t.category}`
+        `- ${t.slug} | ${t.durationDays}d | from ₹${t.priceFromINR.toLocaleString("en-IN")} | ${t.destinations.map((d) => (typeof d === "string" ? d : d.name)).join(", ")} | category: ${t.category}`
     )
     .join("\n");
 

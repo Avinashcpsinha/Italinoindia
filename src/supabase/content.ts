@@ -20,7 +20,7 @@ function rowToTour(row: TourRow, locale: Locale): Tour {
     slug: row.slug,
     category: row.category,
     durationDays: row.duration_days,
-    priceFromEUR: row.price_from_eur,
+    priceFromINR: row.price_from_inr,
     heroImage: row.hero_image ?? "",
     gallery: row.gallery ?? [],
     destinations: (row.destinations ?? []).map<TourDestinationRef>((d) => ({

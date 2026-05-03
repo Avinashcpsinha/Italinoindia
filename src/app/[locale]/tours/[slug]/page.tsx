@@ -182,7 +182,7 @@ export default async function TourDetailPage({
               {t("common.from")}
             </div>
             <div className="mt-1 font-serif text-4xl text-ink-900">
-              {formatPrice(tour.priceFromEUR, "EUR", locale)}
+              {formatPrice(tour.priceFromINR)}
             </div>
             <div className="text-sm text-ink-900/55">
               {t("common.perPerson")} · {t("tours.duration", { days: tour.durationDays })}

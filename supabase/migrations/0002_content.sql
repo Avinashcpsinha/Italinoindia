@@ -28,7 +28,7 @@ create table public.tours (
   summary         jsonb,                             -- short card subtitle
   description     jsonb,                             -- long markdown
   duration_days   int not null check (duration_days between 1 and 60),
-  price_from_eur  int not null check (price_from_eur >= 0),
+  price_from_inr  int not null check (price_from_inr >= 0),  -- starting price per person, in INR
   hero_image      text,                              -- public URL
   gallery         text[] not null default '{}',      -- list of public URLs
   -- Array of {slug, name:{en,it,de,fr}}. Cities not in the destinations table can be embedded directly.

@@ -82,7 +82,7 @@ export async function FeaturedTours() {
                     {dests.join(" · ")}
                   </p>
                   <div className="mt-2 text-sm text-ink-900/80">
-                    {t("tours.fromPrice", { price: formatPrice(tour.priceFromEUR, "EUR", locale) })}
+                    {t("tours.fromPrice", { price: formatPrice(tour.priceFromINR) })}
                   </div>
                 </div>
               </Link>
